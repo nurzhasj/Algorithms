@@ -20,4 +20,3 @@ class Solution {
         return true;
     }
 }
-// O(n^2)
